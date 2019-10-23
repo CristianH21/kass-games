@@ -1,0 +1,11 @@
+.card{
+    margin: auto;
+    height: 260px;
+    width: 170px;
+}
+
+
+.card-template {
+    background-image: url('../images/card-design.png');
+    background-repeat: no-repeat;
+}
